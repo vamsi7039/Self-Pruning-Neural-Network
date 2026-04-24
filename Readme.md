@@ -43,7 +43,9 @@ Pruned Weight = Weight × Sigmoid(Gate Score)
 ---
 
 ## Gate Distribution
+## Gate Distribution
 The distribution shows a strong spike near zero, indicating that most connections are pruned, while a smaller group of connections remains active.
+
 ![Gate Distribution](gate_distribution.png)
 
 ---
